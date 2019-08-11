@@ -1,0 +1,111 @@
+{ box-sizing: border-box; }
+#colour{ background-color: #3F2860;}
+body  { 
+	    color: #3F2860;
+	    font-family: Verdana, Arial, sans-serif;
+	  }
+#bg{ background-color: #F5F5F5; }	  
+	  
+h1 {   
+		text-align : left;
+	    background-color:#9BC1C2;
+	   background-image: url(lilyheader.jpg);
+	   background-position: right;
+	   background-repeat: no-repeat;
+	   line-height: 200%;
+	    padding: 20px 0 45px 50px;	 
+   }
+   
+ #nav {   
+		background-color: #F5F5F5;
+        float: left;
+		width: 160px;
+	    font-style: bold; 
+		padding:0 0 0 1em;
+      }  
+#nav a { 
+		text-decoration: none;
+		padding: 0.9em;
+		font-style: bold;
+		text-align: center;
+		border: 3px outset #CCCCCC;
+		display: block;
+       } 
+#nav a:link { color: #3F2860;}
+#nav a:visited { color: #497777;}
+#nav a:hover { color: #A26100;
+			  border: 3px inset #333333; }
+			  
+h4  {
+	    text-align:center;
+    } 
+main {
+		margin-left: 200px;
+		background-color: #F5F5F5;
+       padding-top: 1em;
+	   padding-right: 2.5em;
+	   margin-bottom:0;
+	   display: block; 
+	   position: relative;
+	   overflow: hidden;
+	}
+.floatleft { 
+			float: left;
+			 margin-right:3em; 
+		   } 
+.head  {
+			font-style: italic;
+	   }
+#contact	
+		{
+			margin-left : 0.5em;
+			padding-top:7em;
+			
+			
+		}
+
+.error {
+		color: #FF0000;
+		text-decoration: none;
+		font-size: .85em;
+	}
+table{
+	 
+	 padding: 15px;
+	 margin-left:4em;
+}
+.reg td
+{
+	padding-bottom:1em;
+	padding-left:1em;
+}
+.reg label{
+	font-weight : bold;
+	font-style: italic;
+}
+#sendbd{
+	padding-left:0.6em;
+}
+
+	
+footer  {   
+         font-size: .60em;
+		 background-color: #9BC1C2;
+		 padding-top:;
+		 padding-bottom: 2em;
+		 font-style: italic;
+		 text-align: center;
+		 margin-top:1em;
+		 padding: 2em; 
+		 position: relative;
+		
+        }
+#wrapper {
+			
+			width: 80%;
+            margin-left: auto;
+            margin-right: auto;
+			position: relative;
+         }
+
+			  
